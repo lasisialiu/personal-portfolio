@@ -1,0 +1,73 @@
+.aliu{
+    color: white;
+    text-align: center;
+    padding: 100px 0;
+}
+.aliu img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.olamide{
+    background-color: #f2f2f2;
+    margin: 30px 40px; 
+    padding: 30px;
+    border-radius: 5px;
+    border-bottom: 5px solid #007bff;
+}
+.olamide:hover{
+    background-color: #007bff;
+    color: white;
+}
+
+.lala{
+    text-align: center;
+    margin: 50px 0;
+}
+
+.ayo img{
+width: 100%;
+height: 250px;
+}
+.ab{
+    margin: 0 auto;
+    background-color: #007bff;
+    color: white;
+    padding: 40px 30px;
+}
+
+.sharun{
+    width: 100%;
+    background-color: navy;
+    color: white;
+    padding: 15px;
+    border:1px solid navy;
+    border-radius: 5px;
+}
+
+#input-message{
+    width: 100%;
+}
+
+.baddo{
+    background-color: #007bff;
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.lukman{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.lukman div{
+    margin: 15px;
+    
+}
+
+.baddo p{
+    margin: 0;
+    padding: 10px;
+}
